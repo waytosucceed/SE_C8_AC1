@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Value of [(-3) × 4 ] ÷ 2 is ___.",
+    "options": [
+      "+12",
+      "-12",
+      "+6",
+      "-6"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which option gives the smallest result?",
+    "options": [
+      "(-5) - (+7)",
+      "(+4) - (-13)",
+      "(+16) - (+8)",
+      "(-10) + (+5)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "The smallest single digit integer is ___.",
+    "options": [
+      "0",
+      "9",
+      "-9",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "On simplifying, which of the following expressions results in a positive number?",
+    "options": [
+      "(-8) × (+3) + (-5)",
+      "(-4) ÷ 2 + (-6)",
+      "(+7) × (-2) + (-9)",
+      "(-10) ÷ (-2) + (+4)"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "An airplane starts at an altitude of 1,000 meters above sea level. It ascends 300 meters every minute for 4 minutes. Then, due to turbulence, it descends 200 meters every minute for 3 minutes. What is the airplane’s final altitude relative to sea level?",
+    "options": [
+      "1,800 meters",
+      "2,200 meters",
+      "1,600 meters",
+      "1,500 meters"
+    ],
+    "correct": 2
+  }
+]
